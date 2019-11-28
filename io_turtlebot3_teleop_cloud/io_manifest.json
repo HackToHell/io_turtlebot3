@@ -33,7 +33,15 @@
                         ]
                     },
                     "ros": {
-                        "topics": [],
+                        "topics": [
+                            {
+                                "name": "/cmd_vel",
+                                "qos": "low",
+                                "compression": "",
+                                "scoped": false,
+                                "targeted": false
+                            }
+                        ],
                         "services": [],
                         "actions": [],
                         "isROS": true,
