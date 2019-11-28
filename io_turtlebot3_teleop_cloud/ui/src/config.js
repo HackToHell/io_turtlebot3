@@ -1,1 +1,1 @@
-export const WEBSOCKET_ENDPOINT = 'wss://inst-bsloffolbonwgocpqtxvcwvz-npdqtw.ep-r.io:443';
+export const WEBSOCKET_ENDPOINT = '';
